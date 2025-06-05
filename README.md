@@ -53,11 +53,6 @@ Identificar padrões e características que influenciam a popularidade (número 
 
 ---
 
-## 🚀 Próximos Passos
-- Aplicar **regressão linear** (Google Colab) para explorar relações entre variáveis contínuas.  
-
----
-
 ## 📂 Entregas
 
 - **Dashboard interativo** (Power BI)  
