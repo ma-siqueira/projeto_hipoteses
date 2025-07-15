@@ -27,11 +27,13 @@ Identificar padrões e características que influenciam a popularidade (número 
   - Quantidade de músicas por artista (ex: Taylor Swift lidera com 34 faixas).  
   - Distribuição de lançamentos por ano.  
 - **Estatísticas:**  
-  - Medidas de tendência central (média, mediana) e dispersão para *streams* e playlists.  
+  - Medidas de tendência central (média, mediana) e dispersão para *streams* e playlists.
+  - Correlaçao de Pearson para calculo de correlaçao entre as variáveis pertinentes. 
   - Quartis para categorização de popularidade (ex: top 25% com *streams* > 1 bilhão).  
 - **Visualizações:**  
   - Histogramas (Python) mostrando distribuição assimétrica de *streams* (long tail).  
-  - Correlações (Pearson) entre variáveis (ex: playlists vs. *streams*: `r=0.78`).  
+  - Correlações (Pearson) entre variáveis (ex: playlists vs. *streams*: `r=0.78`).
+  - Gráficos de disperçao (Power BI).
 
 ### 3. **Validação de Hipóteses**
 | Hipótese | Resultado | Correlação |  
